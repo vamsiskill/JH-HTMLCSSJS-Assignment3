@@ -4,10 +4,6 @@
     font-family: Helvetica;
     }
 
-body { 
-	padding-top: 50px; 
-}
-
 h1 {
     margin-bottom: 15px;
     font-size: 35px;
@@ -55,8 +51,6 @@ h1 {
 #collapsable-nav{	
 	padding: 0px 0px 0px 0px;
 }
-
-a.anchor{display: block; position: relative; top: -50px; visibility: hidden;}
 
 p {
     border: 2px solid black;
